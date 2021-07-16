@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "plyr": "github:sampotts/plyr#develop",
-    "vue": "^2.6.12"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.12.1",
